@@ -1,0 +1,7 @@
+.background-image {
+    background-image: url('./assets/landscape.jpg');
+    background-size: cover;
+    background-position: center top;
+    height: 40vh; /* Adjust the height as needed */
+  }
+  
